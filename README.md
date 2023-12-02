@@ -1,4 +1,4 @@
-# CS553_ML_Project
+# CS584_ML_Project
 
                                                    
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
